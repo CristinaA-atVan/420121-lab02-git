@@ -1,1 +1,2 @@
 Make sure to push files after committing!
+Also, you can push in VSCode!
