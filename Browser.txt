@@ -1,0 +1,2 @@
+When adding files from the browser, remember to pull to local after committing.
+That will save a TON of headaches!
