@@ -1,0 +1,2 @@
+VSCode can commit and push in one button!
+Super convenient for people like me who forget!
